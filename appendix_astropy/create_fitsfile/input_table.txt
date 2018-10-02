@@ -1,0 +1,7 @@
+Event	Date	      Time     Type Detector Photons Significance
+TRB161208a 2016-12-08 00:13:35 long	bgo-14 144 19.7
+TRB161208b 2016-12-08 02:56:23 long	bgo-12 170 19.4
+TRB161208c 2016-12-08 02:58:13 long	bgo-13 183 87.9
+TRB161209  2016-12-09 16:28:47 long bgo-10  39 39.2
+TRB170113a 2017-01-13 01:43:24 long	bgo-14  72 17.9
+TRB180110g 2018-01-10 03:00:00 short bgo-11 1000 2.2
