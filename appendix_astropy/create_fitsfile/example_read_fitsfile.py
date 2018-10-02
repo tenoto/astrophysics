@@ -5,8 +5,6 @@ import astropy.io.fits as fits
 
 input_fitsfile = 'input_sample.evt' 
 
-if not os.path.exists(input_fitsfile):
-	raise FileNotFoundError("{} is not found.".format(input_fitsfile))
 try:
 	hdu = fits.open(input_fitsfile)
 except OSError as e:
